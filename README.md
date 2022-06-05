@@ -1,1 +1,1 @@
-# elzero_git_cousre
+# elzero_git_course
